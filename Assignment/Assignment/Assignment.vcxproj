@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b7285584-daee-4eef-beb1-3b8f1dfb0d65}</ProjectGuid>
-    <RootNamespace>codetrenlop</RootNamespace>
+    <ProjectGuid>{c8c8ecbb-a33a-485f-b6c1-e4fbac1b7e98}</ProjectGuid>
+    <RootNamespace>Assignment</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
