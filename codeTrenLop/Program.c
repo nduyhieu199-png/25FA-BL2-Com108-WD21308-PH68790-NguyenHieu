@@ -42,6 +42,26 @@ for (i = 0; i < length; i++)
 
 }
 }
+void demoString() {
+    //string-"string.h"
+    char mangKytu[50];
+	//fgets(mangkyTu);
+
+    while (getchar() != '\n');
+
+	printf("Nhap du lieu: ");
+	fgets(mangKytu, sizeof(mangKytu), stdin);
+
+    printf("%s", mangKytu);
+    printf("\n");
+    //puts(mangKytu);
+
+	printf("String Length:");
+	printf("%d\n", strlen(mangKytu)-1);
+    printf("String Compare:");
+    printf("%d\n", strcmp("aBc", "aBc"));
+
+}
 
 // Debug/Run chuong trinh: bam "F5" hoac "Debug > Start Debugging" tren menu
 
